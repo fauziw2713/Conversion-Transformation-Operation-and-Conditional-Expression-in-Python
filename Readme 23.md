@@ -1,4 +1,4 @@
-# Replace Strinmg
+# Replace String
 replace() is an inbuilt function in the Python programming language that returns a copy of the string where all occurrences of a substring are replaced with another substring. 
 
 # String Checking
